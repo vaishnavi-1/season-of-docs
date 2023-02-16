@@ -8,3 +8,4 @@ _NOTE: PRs will be auto-closed until the beginning of the 2023 Season of Docs pr
 > Technical Writer Name | Link to portfolio or CV | Interests/Experience
 > ---------------------- | ------------------------| ---------
 > [SAMPLE] Ima Writer | [myportfolio.me](http://example.com) | API documentation, user guides, Python
+> Vaishnavi Saxena | [Linkedin](https://www.linkedin.com/in/vaishnavi-saxena15/) <br> [Github](https://github.com/vaishnavi-1) <br> [Resume](https://drive.google.com/drive/u/2/my-drive) | Python, Keras, OpenCV, CNN, Deep learning, MATLAB, Simulink, Image processing, documentation
